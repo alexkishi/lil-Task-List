@@ -25,7 +25,7 @@ GitHub will automatically build and deploy. You'll see a green checkmark under t
 
 ### 5. Your app is live at:
 ```
-https://YOUR-USERNAME.github.io/chore-tracker/
+https://alexkishi.github.io/chore-tracker/
 ```
 
 ---
