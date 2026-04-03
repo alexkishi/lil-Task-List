@@ -33,7 +33,7 @@ const CATEGORY_ICONS = {
   Safety: "🛡️", 
   Car: "🚗",
   Admin: "💻",
-  Other: "📋",
+  Other: "📋"
 };
 
 // ─── Storage helpers (swap these out when adding Firebase later) ──────────────
