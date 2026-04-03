@@ -6,7 +6,7 @@ A simple home chore tracker with recurring task management.
 
 ### 1. Create a GitHub repository
 - Go to github.com → click **+** → **New repository**
-- Name it exactly: `chore-tracker`
+- Name it exactly: `lil-Task-List`
 - Set to **Public**
 - Click **Create repository**
 
@@ -25,7 +25,7 @@ GitHub will automatically build and deploy. You'll see a green checkmark under t
 
 ### 5. Your app is live at:
 ```
-https://alexkishi.github.io/chore-tracker/
+https://alexkishi.github.io/lil-Task-List/
 ```
 
 ---
