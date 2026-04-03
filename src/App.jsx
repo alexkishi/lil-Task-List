@@ -21,11 +21,18 @@ const DEFAULT_TASKS = [
   { id: 6, name: "Test smoke detectors", frequency: 180, lastDone: null, category: "Safety" },
 ];
 
-const CATEGORIES = ["Cleaning", "Kitchen", "Laundry", "Maintenance", "Garden", "Safety", "Other"];
+const CATEGORIES = ["Cleaning", "Kitchen", "Laundry", "Maintenance", "Garden", "Safety", "Car", "Admin", "Other"];
 
 const CATEGORY_ICONS = {
-  Cleaning: "🧹", Kitchen: "🍽️", Laundry: "👕", Maintenance: "🔧",
-  Garden: "🌿", Safety: "🛡️", Other: "📋",
+  Cleaning: "🧹", 
+  Kitchen: "🍽️", 
+  Laundry: "👕", 
+  Maintenance: "🔧",
+  Garden: "🌿", 
+  Safety: "🛡️", 
+  Car: "🚗",
+  Admin: "💻",
+  Other: "📋",
 };
 
 // ─── Storage helpers (swap these out when adding Firebase later) ──────────────
