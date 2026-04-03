@@ -19,6 +19,7 @@ const DEFAULT_TASKS = [
   { id: 4, name: "Clean fridge", frequency: 30, lastDone: null, category: "Kitchen" },
   { id: 5, name: "Change HVAC filter", frequency: 90, lastDone: null, category: "Maintenance" },
   { id: 6, name: "Test smoke detectors", frequency: 180, lastDone: null, category: "Safety" },
+  { id: 7, name: "Annual car maintenance", frequency: 365, lastDone: null, category: "Car" }
 ];
 
 const CATEGORIES = ["Cleaning", "Kitchen", "Laundry", "Maintenance", "Garden", "Safety", "Car", "Admin", "Other"];
