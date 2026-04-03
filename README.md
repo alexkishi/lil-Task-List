@@ -1,4 +1,4 @@
-# Chore Tracker
+# lil Task List
 
 A simple home chore tracker with recurring task management.
 
