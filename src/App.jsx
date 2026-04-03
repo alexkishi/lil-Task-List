@@ -117,7 +117,7 @@ export default function App() {
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
             <div>
               <div style={{ fontSize: 11, letterSpacing: 3, textTransform: "uppercase", color: "#7ab87e", marginBottom: 6 }}>Home Management</div>
-              <h1 style={{ margin: 0, fontSize: 28, fontWeight: "normal", letterSpacing: -0.5 }}>Chore Tracker</h1>
+              <h1 style={{ margin: 0, fontSize: 28, fontWeight: "normal", letterSpacing: -0.5 }}>lil Task List</h1>
             </div>
             <button onClick={() => setShowAdd(true)} style={{
               background: "#3d6b42", color: "#e8e2d4", border: "none", borderRadius: 6,
